@@ -1,0 +1,39 @@
+C:\Users\nicol\OneDrive\FP informática\2º CS DAM\Desenvolvimiento de Interfaces\2ª evaluación\Tema 5\EjerciciosTema5\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\nicol\OneDrive\FP informática\2º CS DAM\Desenvolvimiento de Interfaces\2ª evaluación\Tema 5\EjerciciosTema5\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\nicol\OneDrive\FP informática\2º CS DAM\Desenvolvimiento de Interfaces\2ª evaluación\Tema 5\EjerciciosTema5\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\nicol\OneDrive\FP informática\2º CS DAM\Desenvolvimiento de Interfaces\2ª evaluación\Tema 5\EjerciciosTema5\Ejercicio1\bin\Debug\NuevosComponentes.dll
+C:\Users\nicol\OneDrive\FP informática\2º CS DAM\Desenvolvimiento de Interfaces\2ª evaluación\Tema 5\EjerciciosTema5\Ejercicio1\bin\Debug\NuevosComponentes.pdb
+C:\Users\nicol\OneDrive\FP informática\2º CS DAM\Desenvolvimiento de Interfaces\2ª evaluación\Tema 5\EjerciciosTema5\Ejercicio1\obj\Debug\Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive\FP informática\2º CS DAM\Desenvolvimiento de Interfaces\2ª evaluación\Tema 5\EjerciciosTema5\Ejercicio1\obj\Debug\Ejercicio1.Form1.resources
+C:\Users\nicol\OneDrive\FP informática\2º CS DAM\Desenvolvimiento de Interfaces\2ª evaluación\Tema 5\EjerciciosTema5\Ejercicio1\obj\Debug\Ejercicio1.Properties.Resources.resources
+C:\Users\nicol\OneDrive\FP informática\2º CS DAM\Desenvolvimiento de Interfaces\2ª evaluación\Tema 5\EjerciciosTema5\Ejercicio1\obj\Debug\Ejercicio1.csproj.GenerateResource.cache
+C:\Users\nicol\OneDrive\FP informática\2º CS DAM\Desenvolvimiento de Interfaces\2ª evaluación\Tema 5\EjerciciosTema5\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\FP informática\2º CS DAM\Desenvolvimiento de Interfaces\2ª evaluación\Tema 5\EjerciciosTema5\Ejercicio1\obj\Debug\Ejercicio1.csproj.CopyComplete
+C:\Users\nicol\OneDrive\FP informática\2º CS DAM\Desenvolvimiento de Interfaces\2ª evaluación\Tema 5\EjerciciosTema5\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\nicol\OneDrive\FP informática\2º CS DAM\Desenvolvimiento de Interfaces\2ª evaluación\Tema 5\EjerciciosTema5\Ejercicio1\obj\Debug\Ejercicio1.pdb
+D:\Programacion\Interfaces_Tema5\EjerciciosTema5\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+D:\Programacion\Interfaces_Tema5\EjerciciosTema5\Ejercicio1\bin\Debug\Ejercicio1.exe
+D:\Programacion\Interfaces_Tema5\EjerciciosTema5\Ejercicio1\bin\Debug\Ejercicio1.pdb
+D:\Programacion\Interfaces_Tema5\EjerciciosTema5\Ejercicio1\bin\Debug\NuevosComponentes.dll
+D:\Programacion\Interfaces_Tema5\EjerciciosTema5\Ejercicio1\bin\Debug\NuevosComponentes.pdb
+D:\Programacion\Interfaces_Tema5\EjerciciosTema5\Ejercicio1\obj\Debug\Ejercicio1.csproj.AssemblyReference.cache
+D:\Programacion\Interfaces_Tema5\EjerciciosTema5\Ejercicio1\obj\Debug\Ejercicio1.Form1.resources
+D:\Programacion\Interfaces_Tema5\EjerciciosTema5\Ejercicio1\obj\Debug\Ejercicio1.Properties.Resources.resources
+D:\Programacion\Interfaces_Tema5\EjerciciosTema5\Ejercicio1\obj\Debug\Ejercicio1.csproj.GenerateResource.cache
+D:\Programacion\Interfaces_Tema5\EjerciciosTema5\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+D:\Programacion\Interfaces_Tema5\EjerciciosTema5\Ejercicio1\obj\Debug\Ejercicio1.csproj.CopyComplete
+D:\Programacion\Interfaces_Tema5\EjerciciosTema5\Ejercicio1\obj\Debug\Ejercicio1.exe
+D:\Programacion\Interfaces_Tema5\EjerciciosTema5\Ejercicio1\obj\Debug\Ejercicio1.pdb
+C:\Users\Usuario\source\repos\EjerciciosTema5\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\Usuario\source\repos\EjerciciosTema5\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\Usuario\source\repos\EjerciciosTema5\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\Usuario\source\repos\EjerciciosTema5\Ejercicio1\bin\Debug\NuevosComponentes.dll
+C:\Users\Usuario\source\repos\EjerciciosTema5\Ejercicio1\bin\Debug\NuevosComponentes.pdb
+C:\Users\Usuario\source\repos\EjerciciosTema5\Ejercicio1\obj\Debug\Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\EjerciciosTema5\Ejercicio1\obj\Debug\Ejercicio1.Form1.resources
+C:\Users\Usuario\source\repos\EjerciciosTema5\Ejercicio1\obj\Debug\Ejercicio1.Properties.Resources.resources
+C:\Users\Usuario\source\repos\EjerciciosTema5\Ejercicio1\obj\Debug\Ejercicio1.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\EjerciciosTema5\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\EjerciciosTema5\Ejercicio1\obj\Debug\Ejercicio1.csproj.CopyComplete
+C:\Users\Usuario\source\repos\EjerciciosTema5\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\Usuario\source\repos\EjerciciosTema5\Ejercicio1\obj\Debug\Ejercicio1.pdb

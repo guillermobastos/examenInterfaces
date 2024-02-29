@@ -1,0 +1,28 @@
+C:\Users\nicol\OneDrive\FP informática\2º CS DAM\Desenvolvimiento de Interfaces\2ª evaluación\PruebaExamen\FernandezPerezNicolas\bin\Debug\FernandezPerezNicolas.exe.config
+C:\Users\nicol\OneDrive\FP informática\2º CS DAM\Desenvolvimiento de Interfaces\2ª evaluación\PruebaExamen\FernandezPerezNicolas\bin\Debug\FernandezPerezNicolas.exe
+C:\Users\nicol\OneDrive\FP informática\2º CS DAM\Desenvolvimiento de Interfaces\2ª evaluación\PruebaExamen\FernandezPerezNicolas\bin\Debug\FernandezPerezNicolas.pdb
+C:\Users\nicol\OneDrive\FP informática\2º CS DAM\Desenvolvimiento de Interfaces\2ª evaluación\PruebaExamen\FernandezPerezNicolas\bin\Debug\NuevosComponentes.dll
+C:\Users\nicol\OneDrive\FP informática\2º CS DAM\Desenvolvimiento de Interfaces\2ª evaluación\PruebaExamen\FernandezPerezNicolas\bin\Debug\NuevosComponentes.pdb
+C:\Users\nicol\OneDrive\FP informática\2º CS DAM\Desenvolvimiento de Interfaces\2ª evaluación\PruebaExamen\FernandezPerezNicolas\obj\Debug\FernandezPerezNicolas.csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive\FP informática\2º CS DAM\Desenvolvimiento de Interfaces\2ª evaluación\PruebaExamen\FernandezPerezNicolas\obj\Debug\FernandezPerezNicolas.Form1.resources
+C:\Users\nicol\OneDrive\FP informática\2º CS DAM\Desenvolvimiento de Interfaces\2ª evaluación\PruebaExamen\FernandezPerezNicolas\obj\Debug\FernandezPerezNicolas.Nuevo.resources
+C:\Users\nicol\OneDrive\FP informática\2º CS DAM\Desenvolvimiento de Interfaces\2ª evaluación\PruebaExamen\FernandezPerezNicolas\obj\Debug\FernandezPerezNicolas.Properties.Resources.resources
+C:\Users\nicol\OneDrive\FP informática\2º CS DAM\Desenvolvimiento de Interfaces\2ª evaluación\PruebaExamen\FernandezPerezNicolas\obj\Debug\FernandezPerezNicolas.csproj.GenerateResource.cache
+C:\Users\nicol\OneDrive\FP informática\2º CS DAM\Desenvolvimiento de Interfaces\2ª evaluación\PruebaExamen\FernandezPerezNicolas\obj\Debug\FernandezPerezNicolas.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\FP informática\2º CS DAM\Desenvolvimiento de Interfaces\2ª evaluación\PruebaExamen\FernandezPerezNicolas\obj\Debug\FernandezPerezNicolas.csproj.CopyComplete
+C:\Users\nicol\OneDrive\FP informática\2º CS DAM\Desenvolvimiento de Interfaces\2ª evaluación\PruebaExamen\FernandezPerezNicolas\obj\Debug\FernandezPerezNicolas.exe
+C:\Users\nicol\OneDrive\FP informática\2º CS DAM\Desenvolvimiento de Interfaces\2ª evaluación\PruebaExamen\FernandezPerezNicolas\obj\Debug\FernandezPerezNicolas.pdb
+C:\Users\Usuario\source\repos\PruebaExamen\FernandezPerezNicolas\bin\Debug\FernandezPerezNicolas.exe.config
+C:\Users\Usuario\source\repos\PruebaExamen\FernandezPerezNicolas\bin\Debug\FernandezPerezNicolas.exe
+C:\Users\Usuario\source\repos\PruebaExamen\FernandezPerezNicolas\bin\Debug\FernandezPerezNicolas.pdb
+C:\Users\Usuario\source\repos\PruebaExamen\FernandezPerezNicolas\bin\Debug\NuevosComponentes.dll
+C:\Users\Usuario\source\repos\PruebaExamen\FernandezPerezNicolas\bin\Debug\NuevosComponentes.pdb
+C:\Users\Usuario\source\repos\PruebaExamen\FernandezPerezNicolas\obj\Debug\FernandezPerezNicolas.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\PruebaExamen\FernandezPerezNicolas\obj\Debug\FernandezPerezNicolas.Form1.resources
+C:\Users\Usuario\source\repos\PruebaExamen\FernandezPerezNicolas\obj\Debug\FernandezPerezNicolas.Nuevo.resources
+C:\Users\Usuario\source\repos\PruebaExamen\FernandezPerezNicolas\obj\Debug\FernandezPerezNicolas.Properties.Resources.resources
+C:\Users\Usuario\source\repos\PruebaExamen\FernandezPerezNicolas\obj\Debug\FernandezPerezNicolas.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\PruebaExamen\FernandezPerezNicolas\obj\Debug\FernandezPerezNicolas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\PruebaExamen\FernandezPerezNicolas\obj\Debug\FernandezPerezNicolas.csproj.CopyComplete
+C:\Users\Usuario\source\repos\PruebaExamen\FernandezPerezNicolas\obj\Debug\FernandezPerezNicolas.exe
+C:\Users\Usuario\source\repos\PruebaExamen\FernandezPerezNicolas\obj\Debug\FernandezPerezNicolas.pdb

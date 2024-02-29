@@ -1,0 +1,39 @@
+C:\Users\nicol\OneDrive\FP informática\2º CS DAM\Desenvolvimiento de Interfaces\2ª evaluación\Tema 5\EjerciciosTema5\NuevosComponentes\bin\Debug\NuevosComponentes.dll
+C:\Users\nicol\OneDrive\FP informática\2º CS DAM\Desenvolvimiento de Interfaces\2ª evaluación\Tema 5\EjerciciosTema5\NuevosComponentes\bin\Debug\NuevosComponentes.pdb
+C:\Users\nicol\OneDrive\FP informática\2º CS DAM\Desenvolvimiento de Interfaces\2ª evaluación\Tema 5\EjerciciosTema5\NuevosComponentes\obj\Debug\NuevosComponentes.csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive\FP informática\2º CS DAM\Desenvolvimiento de Interfaces\2ª evaluación\Tema 5\EjerciciosTema5\NuevosComponentes\obj\Debug\NuevosComponentes.EtiquetaAviso.resources
+C:\Users\nicol\OneDrive\FP informática\2º CS DAM\Desenvolvimiento de Interfaces\2ª evaluación\Tema 5\EjerciciosTema5\NuevosComponentes\obj\Debug\NuevosComponentes.LabelTextBox.resources
+C:\Users\nicol\OneDrive\FP informática\2º CS DAM\Desenvolvimiento de Interfaces\2ª evaluación\Tema 5\EjerciciosTema5\NuevosComponentes\obj\Debug\NuevosComponentes.Properties.Resources.resources
+C:\Users\nicol\OneDrive\FP informática\2º CS DAM\Desenvolvimiento de Interfaces\2ª evaluación\Tema 5\EjerciciosTema5\NuevosComponentes\obj\Debug\NuevosComponentes.Reproductor.resources
+C:\Users\nicol\OneDrive\FP informática\2º CS DAM\Desenvolvimiento de Interfaces\2ª evaluación\Tema 5\EjerciciosTema5\NuevosComponentes\obj\Debug\NuevosComponentes.csproj.GenerateResource.cache
+C:\Users\nicol\OneDrive\FP informática\2º CS DAM\Desenvolvimiento de Interfaces\2ª evaluación\Tema 5\EjerciciosTema5\NuevosComponentes\obj\Debug\NuevosComponentes.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\FP informática\2º CS DAM\Desenvolvimiento de Interfaces\2ª evaluación\Tema 5\EjerciciosTema5\NuevosComponentes\obj\Debug\NuevosComponentes.dll
+C:\Users\nicol\OneDrive\FP informática\2º CS DAM\Desenvolvimiento de Interfaces\2ª evaluación\Tema 5\EjerciciosTema5\NuevosComponentes\obj\Debug\NuevosComponentes.pdb
+C:\Users\nicol\OneDrive\FP informática\2º CS DAM\Desenvolvimiento de Interfaces\2ª evaluación\Tema 5\EjerciciosTema5\NuevosComponentes\obj\Debug\NuevosComponentes.DibujoAhorcado.resources
+C:\Users\nicol\OneDrive\FP informática\2º CS DAM\Desenvolvimiento de Interfaces\2ª evaluación\Tema 5\EjerciciosTema5\NuevosComponentes\obj\Debug\NuevosComponentes.ValidateTextBox.resources
+D:\Programacion\Interfaces_Tema5\EjerciciosTema5\NuevosComponentes\bin\Debug\NuevosComponentes.dll
+D:\Programacion\Interfaces_Tema5\EjerciciosTema5\NuevosComponentes\bin\Debug\NuevosComponentes.pdb
+D:\Programacion\Interfaces_Tema5\EjerciciosTema5\NuevosComponentes\obj\Debug\NuevosComponentes.csproj.AssemblyReference.cache
+D:\Programacion\Interfaces_Tema5\EjerciciosTema5\NuevosComponentes\obj\Debug\NuevosComponentes.DibujoAhorcado.resources
+D:\Programacion\Interfaces_Tema5\EjerciciosTema5\NuevosComponentes\obj\Debug\NuevosComponentes.EtiquetaAviso.resources
+D:\Programacion\Interfaces_Tema5\EjerciciosTema5\NuevosComponentes\obj\Debug\NuevosComponentes.LabelTextBox.resources
+D:\Programacion\Interfaces_Tema5\EjerciciosTema5\NuevosComponentes\obj\Debug\NuevosComponentes.Properties.Resources.resources
+D:\Programacion\Interfaces_Tema5\EjerciciosTema5\NuevosComponentes\obj\Debug\NuevosComponentes.Reproductor.resources
+D:\Programacion\Interfaces_Tema5\EjerciciosTema5\NuevosComponentes\obj\Debug\NuevosComponentes.ValidateTextBox.resources
+D:\Programacion\Interfaces_Tema5\EjerciciosTema5\NuevosComponentes\obj\Debug\NuevosComponentes.csproj.GenerateResource.cache
+D:\Programacion\Interfaces_Tema5\EjerciciosTema5\NuevosComponentes\obj\Debug\NuevosComponentes.csproj.CoreCompileInputs.cache
+D:\Programacion\Interfaces_Tema5\EjerciciosTema5\NuevosComponentes\obj\Debug\NuevosComponentes.dll
+D:\Programacion\Interfaces_Tema5\EjerciciosTema5\NuevosComponentes\obj\Debug\NuevosComponentes.pdb
+C:\Users\Usuario\source\repos\EjerciciosTema5\NuevosComponentes\bin\Debug\NuevosComponentes.dll
+C:\Users\Usuario\source\repos\EjerciciosTema5\NuevosComponentes\bin\Debug\NuevosComponentes.pdb
+C:\Users\Usuario\source\repos\EjerciciosTema5\NuevosComponentes\obj\Debug\NuevosComponentes.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\EjerciciosTema5\NuevosComponentes\obj\Debug\NuevosComponentes.DibujoAhorcado.resources
+C:\Users\Usuario\source\repos\EjerciciosTema5\NuevosComponentes\obj\Debug\NuevosComponentes.EtiquetaAviso.resources
+C:\Users\Usuario\source\repos\EjerciciosTema5\NuevosComponentes\obj\Debug\NuevosComponentes.LabelTextBox.resources
+C:\Users\Usuario\source\repos\EjerciciosTema5\NuevosComponentes\obj\Debug\NuevosComponentes.Properties.Resources.resources
+C:\Users\Usuario\source\repos\EjerciciosTema5\NuevosComponentes\obj\Debug\NuevosComponentes.Reproductor.resources
+C:\Users\Usuario\source\repos\EjerciciosTema5\NuevosComponentes\obj\Debug\NuevosComponentes.ValidateTextBox.resources
+C:\Users\Usuario\source\repos\EjerciciosTema5\NuevosComponentes\obj\Debug\NuevosComponentes.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\EjerciciosTema5\NuevosComponentes\obj\Debug\NuevosComponentes.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\EjerciciosTema5\NuevosComponentes\obj\Debug\NuevosComponentes.dll
+C:\Users\Usuario\source\repos\EjerciciosTema5\NuevosComponentes\obj\Debug\NuevosComponentes.pdb
